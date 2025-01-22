@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://play-lh.googleusercontent.com/tUGnFFr7nIZyMzJlBuzKIYiiuzAylEaXKYgfXSTVn30ZOc_zYFHjCq9gb01VNw6p2Js');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-family: 'Arial', sans-serif;
+}
+
+.btn {
+    font-size: 16px;
+}
