@@ -1,4 +1,4 @@
-# Betting Games dApp 🎲
+# Simple Games dApp 🎲
 
 ## Overview
 This decentralized application (dApp) allows users to participate in betting games on the Ethereum blockchain. Users can place bets, join existing bets, resolve outcomes, and view active bets. It supports games like Coin Toss and Dice Throw.
